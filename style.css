@@ -1,0 +1,172 @@
+body {
+    background-image: url(img/1.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.W {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    word-spacing: 10px;
+}
+.t{
+    width: 45px;
+    margin-top: -160px;
+    margin-left: 200px;
+}
+.pa{
+    color: white;
+    font-family: serif;
+    font-size: 30px;
+    padding-left:960px;
+    padding-top: 20px;
+}
+
+.pl{
+    padding-left:90px;
+    color: white;
+    margin-top: 50px;
+}
+.pa h3{
+    color: white;
+    font-family: serif;
+    font-size: 30px;
+    padding-left:5px;
+    padding-top: 20px;
+    color: black;
+}
+.sun {
+    width: 390px;
+    height: 320px;
+    position: absolute;
+    margin-left: 490px;
+    margin-top: -230px;
+}
+.tem {
+    font-size: 30px;
+    font-family: serif;
+    width: 390px;
+    height: 320px;
+    position: absolute;
+    margin-top: -250px;
+}
+.tem p{
+    font-size: 90px;
+    padding-top: 40px;
+    padding-left: 260px;
+    color: white;
+}
+.tem h4{
+    padding-left: 280px;
+    margin-top: -60px;
+    font-size: 30px;
+}
+.pl{
+    font-size: 30px;
+}
+.mon {
+    font-size: 40px;
+    color: white;
+    font-family: serif;
+    text-align: center;
+    width: 150px;
+    border-style: solid;
+    border-radius: 50px;
+    padding: 20px;
+    margin: 20px;
+    left: 3%;
+    position: absolute;
+}
+.tue {
+    font-size: 40px;
+    color: white;
+    font-family: serif;
+    text-align: center;
+    width: 150px;
+    border-style: solid;
+    border-radius: 50px;
+    left: 16%;
+    padding: 20px;
+    margin: 20px;
+    position: absolute;
+}
+.wed {
+    font-size: 40px;
+    color: white;
+    font-family: serif;
+    text-align: center;
+    width: 150px;
+    border-style: solid;
+    border-radius: 50px;
+    left: 29%;
+    padding: 20px;
+    margin: 20px;
+    position: absolute;
+}
+.thur{
+    font-size: 40px;
+    color: white;
+    font-family: serif;
+    text-align: center;
+    width: 150px;
+    border-style: solid;
+    border-radius: 50px;
+    left: 42%;
+    padding: 20px;
+    margin: 20px;
+    position: absolute;
+}
+.fri {
+    font-size: 40px;
+    color: white;
+    font-family: serif;
+    text-align: center;
+    width: 150px;
+    border-style: solid;
+    border-radius: 50px;
+    left: 55%;
+    padding: 20px;
+    margin: 20px;
+    position: absolute;
+}
+.sat{
+    font-size: 40px;
+    color: white;
+    font-family: serif;
+    text-align: center;
+    width: 150px;
+    border-style: solid;
+    border-radius: 50px;
+    left: 68%;
+    padding: 20px;
+    margin: 20px;
+    position: absolute;
+}
+
+.sun1{
+    font-size: 40px;
+    color: white;
+    font-family: serif;
+    text-align: center;
+    width: 150px;
+    border-style: solid;
+    border-radius: 50px;
+    left: 81%;
+    padding: 20px;
+    margin: 20px;
+    position: absolute;
+}
+footer{
+    text-align: center;
+    margin-top: 230px;
+    font-size: 20px;
+    background-color: rgb(214, 210, 210);
+    color: rgb(0, 0, 0);
+}
